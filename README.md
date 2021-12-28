@@ -100,6 +100,3 @@
 ![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/sales.PNG)
 商品销售退货管理
 ![](https://github.com/yeqifu/warehouse/blob/master/src/main/resources/static/images/salesback.PNG)
-
-### 讨论
-有问题请在([issue])中讨论 或联系我QQ：1784525940，请注明来意，伸手党勿加~
