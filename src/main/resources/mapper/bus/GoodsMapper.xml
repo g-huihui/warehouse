@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.yeqifu.bus.mapper.GoodsMapper">
+<mapper namespace="com.gongyanhui.bus.mapper.GoodsMapper">
 
     <!-- 根据商品id删除商品销售信息 -->
     <delete id="deleteSaleByGoodsId">
@@ -33,7 +33,7 @@
     </delete>
 
     <!--查询所有库存预警商品-->
-    <select id="loadAllWarning" resultType="com.yeqifu.bus.entity.Goods">
+    <select id="loadAllWarning" resultType="com.gongyanhui.bus.entity.Goods">
         select * from bus_goods where dangernum > number
     </select>
 
