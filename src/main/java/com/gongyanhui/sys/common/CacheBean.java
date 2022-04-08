@@ -3,8 +3,8 @@ package com.gongyanhui.sys.common;
 import com.alibaba.fastjson.JSON;
 
 /**
- * @Author: 落亦-
- * @Date: 2019/12/20 18:40
+ * @Author: Taurus-
+ * @Date: 2021/12/20 18:40
  */
 public class CacheBean {
 

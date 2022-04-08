@@ -3,7 +3,7 @@
  *@Author 智慧的小西瓜
  *@DOCS http://www.wisdomelon.com/DTreeHelper/
  *@License https://www.layui.com/
- *@LASTTIME 2019/06/23
+ *@LASTTIME 2021/06/23
  *@VERSION v2.5.4
  */
 layui.define(['jquery','layer','form'], function(exports) {

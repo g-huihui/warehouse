@@ -12,7 +12,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @Author: 落亦-
+ * @Author: Taurus-
  * @Date: 2020/3/8 17:30
  */
 @Configuration
@@ -32,11 +32,11 @@ public class Swagger2AutoConfiguration {
     private ApiInfo apiInfo(){
         return new ApiInfoBuilder().description("仓库后台管理系统SwaggerUI接口工具")
                 //名片
-                .contact(new Contact("luoyi-","http://39.97.277.129","1784525940@qq.com"))
+                .contact(new Contact("Taurus-","http://gongyanhui.top","gongyanhui66@gmail.com"))
                 //版本
                 .version("1.0")
                 //所有者
-                .license("luoyi-工作室")
+                .license("Taurus-工作室")
                 //构造
                 .build();
     }

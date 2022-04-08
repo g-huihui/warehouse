@@ -25,8 +25,8 @@ import java.util.List;
  * InnoDB free: 9216 kB; (`providerid`) REFER `warehouse/bus_provider`(`id`) 前端控制器
  * </p>
  *
- * @author luoyi-
- * @since 2019-12-06
+ * @author Taurus-
+ * @since 2021-12-06
  */
 @RestController
 @RequestMapping("/goods")

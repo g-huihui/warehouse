@@ -16,8 +16,8 @@ import java.io.Serializable;
  * InnoDB free: 9216 kB 服务实现类
  * </p>
  *
- * @author luoyi-
- * @since 2019-12-21
+ * @author Taurus-
+ * @since 2021-12-21
  */
 @Service
 public class SalesServiceImpl extends ServiceImpl<SalesMapper, Sales> implements ISalesService {

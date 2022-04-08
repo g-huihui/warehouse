@@ -14,7 +14,7 @@ import java.util.Scanner;
 /**
  * mp生成器
  * @Author: gongyanhui
- * @Date: 2019/11/18 14:22
+ * @Date: 2021/11/18 14:22
  */
 public class CodeGenerator {
 

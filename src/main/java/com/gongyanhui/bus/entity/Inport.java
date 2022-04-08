@@ -16,8 +16,8 @@ import java.util.Date;
  * InnoDB free: 9216 kB; (`providerid`) REFER `warehouse/bus_provider`(`id`); (`goo
  * </p>
  *
- * @author luoyi-
- * @since 2019-12-18
+ * @author Taurus-
+ * @since 2021-12-18
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

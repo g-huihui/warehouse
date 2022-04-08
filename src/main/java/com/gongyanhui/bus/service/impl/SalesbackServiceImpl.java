@@ -20,8 +20,8 @@ import java.util.Date;
  * InnoDB free: 9216 kB 服务实现类
  * </p>
  *
- * @author luoyi-
- * @since 2019-12-23
+ * @author Taurus-
+ * @since 2021-12-23
  */
 @Service
 public class SalesbackServiceImpl extends ServiceImpl<SalesbackMapper, Salesback> implements ISalesbackService {

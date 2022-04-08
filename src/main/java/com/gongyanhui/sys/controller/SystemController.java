@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * 系统进行跳转的路由
- * @Author: 落亦-
- * @Date: 2019/11/21 21:19
+ * @Author: Taurus-
+ * @Date: 2021/11/21 21:19
  */
 @Controller
 @RequestMapping("sys")

@@ -6,8 +6,8 @@ import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author: 落亦-
- * @Date: 2019/12/20 18:23
+ * @Author: Taurus-
+ * @Date: 2021/12/20 18:23
  */
 @Component
 public class SpringUtil implements ApplicationContextAware {
